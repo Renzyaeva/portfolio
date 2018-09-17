@@ -10,7 +10,10 @@
 	</head>
 	<body>
 		<header>
-			<div class="headerInside"></div>
+			<div class="headerInside">
+				<div id="logo"></div>
+				<div id="myName">Рензяева Ирина Александровна</div>
+			</div>
 		</header>
 		<div>
 			Добро пожаловать
