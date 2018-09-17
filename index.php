@@ -13,13 +13,14 @@
 			<div class="headerInside">
 				<div id="logo"></div>
 				<div id="myName">Рензяева Ирина Александровна</div>
+				<div id="navWrap">
+					<a href="#">Главная</a>
+					<a href="#">Портфолио</a>
+				</div>
 			</div>
 		</header>
-		<div>
-			Добро пожаловать
-		</div>
-		<h1>Мое портфолио</h1>
-		<div class="container">11</div>
+		<h1>Портфолио</h1>
+		
 		<img src="images/profile2.jpg" alt="Рензяева И.А.">
 		<footer>
 			Здесь будет подвал
