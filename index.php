@@ -16,7 +16,7 @@
 			Добро пожаловать
 		</div>
 		<h1>Мое портфолио</h1>
-		<div>2</div>
+		<div class="container">2</div>
 		<img src="images/profile2.jpg" alt="Рензяева И.А.">
 		<footer>
 			Здесь будет подвал
